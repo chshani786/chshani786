@@ -115,11 +115,34 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arsalnanwer/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:arslan.anwer778@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <!-- Phone -->
+  <a href="tel:+923027993900">
+    <img src="https://img.icons8.com/fluency/48/phone.png" width="48" height="48"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/marslananwer/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://facebook.com/marsalan.anwer/">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="48" height="48"/>
+  </a>
+
+  <!-- Twitter (X) -->
+  <a href="https://twitter.com/arslananwer778">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
 </p>
 
