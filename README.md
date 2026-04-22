@@ -2,8 +2,8 @@
 <h3 align="center">🚀 Full Stack Software Engineer | MERN & MEVN Specialist</h3>
 
 <p align="center">
-  <a href="https://github.com/chshani768">
-    <img src="https://komarev.com/ghpvc/?username=chshani768&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/chshani786">
+    <img src="https://komarev.com/ghpvc/?username=chshani786&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
 
@@ -99,15 +99,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chshani768&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chshani786&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=chshani768&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=chshani786&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chshani768&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chshani786&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
