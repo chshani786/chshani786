@@ -188,7 +188,7 @@ const arslan: Developer = {
 - 📡 Architected **SIMI Connect/Smart** — multi-platform IoT + digital signage SaaS: Stripe subscription billing (5 tiers, auto-renewal), MAC-based device registry, geo-targeted advertising, NestJS edge firmware on Raspberry Pi, Philips Hue/Tuya/Google Nest integrations → **20% user engagement increase**
 - 🤖 Engineered **SIC Smart Interview Coach** — AI SaaS with 4 concurrent AI sources (OpenAI GPT · Whisper + ffmpeg · Hume AI · Computer Vision) delivering automated multi-dimensional interview performance reports
 - 💳 Built **UltaHost Panel** — hosting management SaaS: dual-database (MySQL + MongoDB), **4-gateway payment layer** (Stripe · PayPal · 2Checkout · Cryptomus + webhooks), CASL RBAC, 2FA TOTP, OAuth2, virus-scanning pipeline
-- 🌿 Developed **[Terstal AI Product Enricher](https://www.terstal.nl/)** — GPT-4o-mini with Dutch retail prompt engineering, XML ERP feed ingestion, Socket.IO real-time streaming for automated e-commerce content generation
+- 🌿 Developed **Terstal AI Product Enricher** — GPT-4o-mini with Dutch retail prompt engineering, XML ERP feed ingestion, Socket.IO real-time streaming for automated e-commerce content generation
 - 📚 Built **Kean OLT** — multi-tenant fire safety LMS: Aspose OMR API for automated paper exam scanning, online/offline dual delivery, auto-generated unique student papers, automated grading
 - 🏈 Developed **The Platform** — NFL/NIL sports intelligence platform with NIL deal workflows, Twilio SMS OTP, Firebase Auth, mobile deep-link integration
 - 🔧 Architected **shared NestJS internal boilerplate** (global guards, interceptors, exception filters, role decorators) adopted across **5+ projects**
